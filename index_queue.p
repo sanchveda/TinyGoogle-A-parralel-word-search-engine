@@ -1,0 +1,16 @@
+(lp0
+(S'index/germanium.cs.pitt.edu_final_0.p'
+p1
+S'a'
+p2
+S'm'
+p3
+tp4
+a(S'index/hydrogen.cs.pitt.edu_final_1.p'
+p5
+S'n'
+p6
+S'z'
+p7
+tp8
+a.
